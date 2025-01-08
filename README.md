@@ -1,7 +1,9 @@
 # AEDU2
 Gestión de Tareas utilizando Pilas y Colas en Java
 Descripción
-Este proyecto implementa un sistema de gestión de tareas utilizando las estructuras de datos pilas y colas en Java. El objetivo es permitir al usuario agregar, completar, eliminar y visualizar tareas de manera eficiente a través de una interfaz de usuario en la consola.
+Este proyecto implementa un sistema de gestión de tareas utilizando las estructuras de datos pilas y colas en Java.
+El objetivo es permitir al usuario agregar, completar, eliminar y visualizar tareas de manera eficiente a través de una interfaz de usuario en la consola.
+
 Estructuras Utilizadas
 Pila (Stack): Para almacenar las tareas pendientes.
 Cola (LinkedList): Para almacenar las tareas completadas.
